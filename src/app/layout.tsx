@@ -9,8 +9,8 @@ const geistSans = Roboto({
 });
 
 export const metadata: Metadata = {
-  title: "Locarise | Your Trusted Partner",
-  description: "Locarise - Your Trusted Partner for Fast and Reliable Services",
+  title: "AKA Auto Group | Your Trusted Partner",
+  description: "AKA Auto Group - Your Trusted Partner for Fast and Reliable Services",
 };
 
 export default function RootLayout({
